@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Starter Pack",
+    "audience": "Single-room homestays and first-time hosts",
+    "description": "The bare essentials for one room for a month.",
+    "rooms": "1 room, one month",
+    "count": 5,
+    "price": 4550,
+    "productIds": ["shampoo-sachet-10ml", "soap-bar-15g-wrapped", "bath-towel-450-gsm", "tea-sachet-assortment", "sugar-sachet-5g"]
+  },
+  {
+    "id": 2,
+    "name": "Airbnb Essentials Pack",
+    "audience": "Airbnb hosts with 1–3 units",
+    "description": "Covers toiletries, towels and a pantry basics set for short stays.",
+    "rooms": "2 rooms, one month",
+    "count": 9,
+    "price": 7230,
+    "productIds": ["shampoo-bottle-30ml", "conditioner-bottle-30ml", "soap-bar-15g-wrapped", "dental-kit", "bath-towel-450-gsm", "hand-towel-400-gsm", "tea-sachet-assortment", "instant-coffee-sachet-2g", "sugar-sachet-5g"]
+  },
+  {
+    "id": 3,
+    "name": "Premium Pack",
+    "audience": "Well-rated homestays and serviced apartments",
+    "description": "Mini-bottle toiletries and heavier cotton towels.",
+    "rooms": "3 rooms, one month",
+    "count": 8,
+    "price": 19390,
+    "productIds": ["shampoo-bottle-30ml", "conditioner-bottle-30ml", "body-wash-bottle-30ml", "glycerin-soap-bar-30g", "bath-towel-600-gsm-cotton", "bath-mat-900-gsm", "terry-cloth-slippers", "tea-sachet-assortment"]
+  },
+  {
+    "id": 4,
+    "name": "Boutique Hotel Pack",
+    "audience": "Independent hotels and serviced apartments",
+    "description": "A balanced room-ready pack for a boutique property.",
+    "rooms": "5 rooms, one month",
+    "count": 11,
+    "price": 28750,
+    "productIds": ["shampoo-bottle-30ml", "conditioner-bottle-30ml", "body-wash-bottle-30ml", "dental-kit", "vanity-kit-comb-cotton-shower-cap", "bath-towel-600-gsm-cotton", "hand-towel-400-gsm", "bath-mat-900-gsm", "terry-cloth-slippers", "tea-sachet-assortment", "bamboo-welcome-tray"]
+  },
+  {
+    "id": 5,
+    "name": "Luxury Pack",
+    "audience": "Premium suites and design-led stays",
+    "description": "A considered collection of elevated bathroom and welcome essentials.",
+    "rooms": "3 suites, one month",
+    "count": 7,
+    "price": 31900,
+    "productIds": ["shampoo-pump-dispenser-300ml", "conditioner-bottle-30ml", "body-wash-bottle-30ml", "bath-towel-700-gsm-egyptian-style", "terry-cloth-slippers", "glass-water-bottle-500ml", "bamboo-welcome-tray"]
+  },
+  {
+    "id": 6,
+    "name": "Custom Branded Pack",
+    "audience": "Properties ready to make every detail their own",
+    "description": "Custom amenities and welcome pieces made with your property branding.",
+    "rooms": "Made to your brief",
+    "count": 1,
+    "price": 5200,
+    "productIds": ["custom-branded-amenity-set"]
+  }
+]

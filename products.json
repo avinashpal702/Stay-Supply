@@ -1,0 +1,16 @@
+[
+  {
+    "id": "p1",
+    "name": "Cozy Apartment",
+    "description": "2-bedroom apartment in downtown.",
+    "price": 1200,
+    "image": "https://via.placeholder.com/300x200"
+  },
+  {
+    "id": "p2",
+    "name": "Lake House",
+    "description": "Spacious house with lake view.",
+    "price": 2500,
+    "image": "https://via.placeholder.com/300x200"
+  }
+]

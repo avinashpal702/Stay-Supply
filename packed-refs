@@ -1,0 +1,20 @@
+# pack-refs with: peeled fully-peeled sorted 
+1cd3ad3f6c9446d4153cd5e6f02c6e7246a2ba1d refs/agents/f0b36e1e-6f8f-4b52-b570-563c819d91e5/checkpoints/turn/0
+3f6ca3de7558459d72e4600458446ab027bfa520 refs/agents/f0b36e1e-6f8f-4b52-b570-563c819d91e5/checkpoints/turn/1
+3b0cda38979968b55fd7523a1cad01bda2a9d0b8 refs/agents/f0b36e1e-6f8f-4b52-b570-563c819d91e5/checkpoints/turn/10
+c65f882e69be23b0db295ebcbceffce877096a8c refs/agents/f0b36e1e-6f8f-4b52-b570-563c819d91e5/checkpoints/turn/11
+c46de27e7a9450f0dc9ead32370b53451d8a0472 refs/agents/f0b36e1e-6f8f-4b52-b570-563c819d91e5/checkpoints/turn/12
+f38bc9401f8296e9e85ab206ad59b58b6ff76057 refs/agents/f0b36e1e-6f8f-4b52-b570-563c819d91e5/checkpoints/turn/13
+f5457bb02cb9283bfa1e65a3b0951d48d548c025 refs/agents/f0b36e1e-6f8f-4b52-b570-563c819d91e5/checkpoints/turn/14
+ec9fa1b28ef85cb072409e7e5e2cbba9262da953 refs/agents/f0b36e1e-6f8f-4b52-b570-563c819d91e5/checkpoints/turn/15
+9406248731fc0156e073351d5e447524a895ddce refs/agents/f0b36e1e-6f8f-4b52-b570-563c819d91e5/checkpoints/turn/16
+026c027f7085d79a7d2a6025df828bba93047ffe refs/agents/f0b36e1e-6f8f-4b52-b570-563c819d91e5/checkpoints/turn/2
+4e6c65962b2269fc8e7b0106084c4edba293a533 refs/agents/f0b36e1e-6f8f-4b52-b570-563c819d91e5/checkpoints/turn/3
+0212d20ccf173d8a89b55563082f061ffe8f709d refs/agents/f0b36e1e-6f8f-4b52-b570-563c819d91e5/checkpoints/turn/4
+9a6ccdb2580374e6215a42630049e40e3d6dd0af refs/agents/f0b36e1e-6f8f-4b52-b570-563c819d91e5/checkpoints/turn/5
+c0219f1ff363260593f89d477523bc22dc7ed1d7 refs/agents/f0b36e1e-6f8f-4b52-b570-563c819d91e5/checkpoints/turn/6
+da68e748387effe60a25f734d57622dad8a8743f refs/agents/f0b36e1e-6f8f-4b52-b570-563c819d91e5/checkpoints/turn/7
+7985ee619d164e0c3d2680427698340f70a7816c refs/agents/f0b36e1e-6f8f-4b52-b570-563c819d91e5/checkpoints/turn/8
+98e590fb3d5d2b34081c7e66d35e2801a7d8c35d refs/agents/f0b36e1e-6f8f-4b52-b570-563c819d91e5/checkpoints/turn/9
+4847a82a4bc7ebd6e2816587edfa1fd179287d5b refs/heads/master
+4cdb82f71580f952503188419d48b95a6081c7e7 refs/remotes/origin/main

@@ -1,0 +1,8 @@
+[
+  {
+    "properties": [
+      { "id": "p1", "name": "Cozy Apartment", "address": "Downtown, Block 12" },
+      { "id": "p2", "name": "Lake House", "address": "Lakeview Avenue 88" }
+    ]
+  }
+]
